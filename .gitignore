@@ -1,4 +1,5 @@
 node_modules
-yarn.lock
 dist
 coverage
+yarn-error.log
+docs/2020/01/03.md
